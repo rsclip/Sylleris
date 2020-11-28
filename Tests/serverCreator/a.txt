@@ -1,0 +1,1463 @@
+{
+    "Vanilla": [
+        {
+            "id": "1.15.2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15.2/minecraft_server.1.15.2.jar"
+        },
+        {
+            "id": "1.15.1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15.1/minecraft_server.1.15.1.jar"
+        },
+        {
+            "id": "1.15",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15/minecraft_server.1.15.jar"
+        },
+        {
+            "id": "1.14.4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.4/minecraft_server.1.14.4.jar"
+        },
+        {
+            "id": "1.14.3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.3/minecraft_server.1.14.3.jar"
+        },
+        {
+            "id": "1.14.2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.2/minecraft_server.1.14.2.jar"
+        },
+        {
+            "id": "1.14.1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.1/minecraft_server.1.14.1.jar"
+        },
+        {
+            "id": "1.14",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14/minecraft_server.1.14.jar"
+        },
+        {
+            "id": "1.13.2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13.2/minecraft_server.1.13.2.jar"
+        },
+        {
+            "id": "1.13.1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13.1/minecraft_server.1.13.1.jar"
+        },
+        {
+            "id": "1.13",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13/minecraft_server.1.13.jar"
+        },
+        {
+            "id": "1.12.2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12.2/minecraft_server.1.12.2.jar"
+        },
+        {
+            "id": "1.12.1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12.1/minecraft_server.1.12.1.jar"
+        },
+        {
+            "id": "1.12",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12/minecraft_server.1.12.jar"
+        },
+        {
+            "id": "1.11.2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.11.2/minecraft_server.1.11.2.jar"
+        },
+        {
+            "id": "1.11.1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.11.1/minecraft_server.1.11.1.jar"
+        },
+        {
+            "id": "1.11",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.11/minecraft_server.1.11.jar"
+        },
+        {
+            "id": "1.10.2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.10.2/minecraft_server.1.10.2.jar"
+        },
+        {
+            "id": "1.10.1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.10.1/minecraft_server.1.10.1.jar"
+        },
+        {
+            "id": "1.10",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.10/minecraft_server.1.10.jar"
+        },
+        {
+            "id": "1.9.4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.4/minecraft_server.1.9.4.jar"
+        },
+        {
+            "id": "1.9.3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.3/minecraft_server.1.9.3.jar"
+        },
+        {
+            "id": "1.9.2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.2/minecraft_server.1.9.2.jar"
+        },
+        {
+            "id": "1.9.1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.1/minecraft_server.1.9.1.jar"
+        },
+        {
+            "id": "1.9",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9/minecraft_server.1.9.jar"
+        },
+        {
+            "id": "1.8.9",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.9/minecraft_server.1.8.9.jar"
+        },
+        {
+            "id": "1.8.8",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.8/minecraft_server.1.8.8.jar"
+        },
+        {
+            "id": "1.8.7",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.7/minecraft_server.1.8.7.jar"
+        },
+        {
+            "id": "1.8.6",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.6/minecraft_server.1.8.6.jar"
+        },
+        {
+            "id": "1.8.5",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.5/minecraft_server.1.8.5.jar"
+        },
+        {
+            "id": "1.8.4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.4/minecraft_server.1.8.4.jar"
+        },
+        {
+            "id": "1.8.3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.3/minecraft_server.1.8.3.jar"
+        },
+        {
+            "id": "1.8.2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.2/minecraft_server.1.8.2.jar"
+        },
+        {
+            "id": "1.8.1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.1/minecraft_server.1.8.1.jar"
+        },
+        {
+            "id": "1.8",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8/minecraft_server.1.8.jar"
+        },
+        {
+            "id": "1.7.10",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.10/minecraft_server.1.7.10.jar"
+        },
+        {
+            "id": "1.7.9",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.9/minecraft_server.1.7.9.jar"
+        },
+        {
+            "id": "1.7.8",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.8/minecraft_server.1.7.8.jar"
+        },
+        {
+            "id": "1.7.7",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.7/minecraft_server.1.7.7.jar"
+        },
+        {
+            "id": "1.7.6",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.6/minecraft_server.1.7.6.jar"
+        },
+        {
+            "id": "20w18a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w18a/minecraft_server.20w18a.jar"
+        },
+        {
+            "id": "20w17a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w17a/minecraft_server.20w17a.jar"
+        },
+        {
+            "id": "20w16a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w16a/minecraft_server.20w16a.jar"
+        },
+        {
+            "id": "20w15a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w15a/minecraft_server.20w15a.jar"
+        },
+        {
+            "id": "20w14a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w14a/minecraft_server.20w14a.jar"
+        },
+        {
+            "id": "20w14infinite",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w14infinite/minecraft_server.20w14infinite.jar"
+        },
+        {
+            "id": "20w13b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w13b/minecraft_server.20w13b.jar"
+        },
+        {
+            "id": "20w13a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w13a/minecraft_server.20w13a.jar"
+        },
+        {
+            "id": "20w12a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w12a/minecraft_server.20w12a.jar"
+        },
+        {
+            "id": "20w11a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w11a/minecraft_server.20w11a.jar"
+        },
+        {
+            "id": "20w10a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w10a/minecraft_server.20w10a.jar"
+        },
+        {
+            "id": "20w09a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w09a/minecraft_server.20w09a.jar"
+        },
+        {
+            "id": "20w08a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w08a/minecraft_server.20w08a.jar"
+        },
+        {
+            "id": "20w07a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w07a/minecraft_server.20w07a.jar"
+        },
+        {
+            "id": "20w06a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/20w06a/minecraft_server.20w06a.jar"
+        },
+        {
+            "id": "1.15.2-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15.2-pre2/minecraft_server.1.15.2-pre2.jar"
+        },
+        {
+            "id": "1.15.2-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15.2-pre1/minecraft_server.1.15.2-pre1.jar"
+        },
+        {
+            "id": "1.15.1-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15.1-pre1/minecraft_server.1.15.1-pre1.jar"
+        },
+        {
+            "id": "1.15-pre7",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15-pre7/minecraft_server.1.15-pre7.jar"
+        },
+        {
+            "id": "1.15-pre6",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15-pre6/minecraft_server.1.15-pre6.jar"
+        },
+        {
+            "id": "1.15-pre5",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15-pre5/minecraft_server.1.15-pre5.jar"
+        },
+        {
+            "id": "1.15-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15-pre4/minecraft_server.1.15-pre4.jar"
+        },
+        {
+            "id": "1.15-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15-pre3/minecraft_server.1.15-pre3.jar"
+        },
+        {
+            "id": "1.15-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15-pre2/minecraft_server.1.15-pre2.jar"
+        },
+        {
+            "id": "1.15-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.15-pre1/minecraft_server.1.15-pre1.jar"
+        },
+        {
+            "id": "19w46b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w46b/minecraft_server.19w46b.jar"
+        },
+        {
+            "id": "19w46a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w46a/minecraft_server.19w46a.jar"
+        },
+        {
+            "id": "19w45b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w45b/minecraft_server.19w45b.jar"
+        },
+        {
+            "id": "19w45a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w45a/minecraft_server.19w45a.jar"
+        },
+        {
+            "id": "19w44a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w44a/minecraft_server.19w44a.jar"
+        },
+        {
+            "id": "19w42a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w42a/minecraft_server.19w42a.jar"
+        },
+        {
+            "id": "19w41a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w41a/minecraft_server.19w41a.jar"
+        },
+        {
+            "id": "19w40a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w40a/minecraft_server.19w40a.jar"
+        },
+        {
+            "id": "19w39a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w39a/minecraft_server.19w39a.jar"
+        },
+        {
+            "id": "19w38b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w38b/minecraft_server.19w38b.jar"
+        },
+        {
+            "id": "19w38a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w38a/minecraft_server.19w38a.jar"
+        },
+        {
+            "id": "19w37a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w37a/minecraft_server.19w37a.jar"
+        },
+        {
+            "id": "19w36a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w36a/minecraft_server.19w36a.jar"
+        },
+        {
+            "id": "19w35a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w35a/minecraft_server.19w35a.jar"
+        },
+        {
+            "id": "19w34a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w34a/minecraft_server.19w34a.jar"
+        },
+        {
+            "id": "1.14.4-pre7",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.4-pre7/minecraft_server.1.14.4-pre7.jar"
+        },
+        {
+            "id": "1.14.4-pre6",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.4-pre6/minecraft_server.1.14.4-pre6.jar"
+        },
+        {
+            "id": "1.14.4-pre5",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.4-pre5/minecraft_server.1.14.4-pre5.jar"
+        },
+        {
+            "id": "1.14.4-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.4-pre4/minecraft_server.1.14.4-pre4.jar"
+        },
+        {
+            "id": "1.14.4-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.4-pre3/minecraft_server.1.14.4-pre3.jar"
+        },
+        {
+            "id": "1.14.4-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.4-pre2/minecraft_server.1.14.4-pre2.jar"
+        },
+        {
+            "id": "1.14.4-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.4-pre1/minecraft_server.1.14.4-pre1.jar"
+        },
+        {
+            "id": "1.14.3-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.3-pre4/minecraft_server.1.14.3-pre4.jar"
+        },
+        {
+            "id": "1.14.3-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.3-pre3/minecraft_server.1.14.3-pre3.jar"
+        },
+        {
+            "id": "1.14.3-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.3-pre2/minecraft_server.1.14.3-pre2.jar"
+        },
+        {
+            "id": "1.14.3-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.3-pre1/minecraft_server.1.14.3-pre1.jar"
+        },
+        {
+            "id": "1.14.2 Pre-Release 4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.2 Pre-Release 4/minecraft_server.1.14.2 Pre-Release 4.jar"
+        },
+        {
+            "id": "1.14.2 Pre-Release 3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.2 Pre-Release 3/minecraft_server.1.14.2 Pre-Release 3.jar"
+        },
+        {
+            "id": "1.14.2 Pre-Release 2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.2 Pre-Release 2/minecraft_server.1.14.2 Pre-Release 2.jar"
+        },
+        {
+            "id": "1.14.2 Pre-Release 1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.2 Pre-Release 1/minecraft_server.1.14.2 Pre-Release 1.jar"
+        },
+        {
+            "id": "1.14.1 Pre-Release 2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.1 Pre-Release 2/minecraft_server.1.14.1 Pre-Release 2.jar"
+        },
+        {
+            "id": "1.14.1 Pre-Release 1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14.1 Pre-Release 1/minecraft_server.1.14.1 Pre-Release 1.jar"
+        },
+        {
+            "id": "1.14 Pre-Release 5",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14 Pre-Release 5/minecraft_server.1.14 Pre-Release 5.jar"
+        },
+        {
+            "id": "1.14 Pre-Release 4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14 Pre-Release 4/minecraft_server.1.14 Pre-Release 4.jar"
+        },
+        {
+            "id": "1.14 Pre-Release 3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14 Pre-Release 3/minecraft_server.1.14 Pre-Release 3.jar"
+        },
+        {
+            "id": "1.14 Pre-Release 2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14 Pre-Release 2/minecraft_server.1.14 Pre-Release 2.jar"
+        },
+        {
+            "id": "1.14 Pre-Release 1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.14 Pre-Release 1/minecraft_server.1.14 Pre-Release 1.jar"
+        },
+        {
+            "id": "19w14b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w14b/minecraft_server.19w14b.jar"
+        },
+        {
+            "id": "19w14a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w14a/minecraft_server.19w14a.jar"
+        },
+        {
+            "id": "3D Shareware v1.34",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/3D Shareware v1.34/minecraft_server.3D Shareware v1.34.jar"
+        },
+        {
+            "id": "19w13b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w13b/minecraft_server.19w13b.jar"
+        },
+        {
+            "id": "19w13a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w13a/minecraft_server.19w13a.jar"
+        },
+        {
+            "id": "19w12b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w12b/minecraft_server.19w12b.jar"
+        },
+        {
+            "id": "19w12a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w12a/minecraft_server.19w12a.jar"
+        },
+        {
+            "id": "19w11b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w11b/minecraft_server.19w11b.jar"
+        },
+        {
+            "id": "19w11a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w11a/minecraft_server.19w11a.jar"
+        },
+        {
+            "id": "19w09a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w09a/minecraft_server.19w09a.jar"
+        },
+        {
+            "id": "19w08b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w08b/minecraft_server.19w08b.jar"
+        },
+        {
+            "id": "19w08a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w08a/minecraft_server.19w08a.jar"
+        },
+        {
+            "id": "19w07a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w07a/minecraft_server.19w07a.jar"
+        },
+        {
+            "id": "19w06a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w06a/minecraft_server.19w06a.jar"
+        },
+        {
+            "id": "19w05a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w05a/minecraft_server.19w05a.jar"
+        },
+        {
+            "id": "19w04b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w04b/minecraft_server.19w04b.jar"
+        },
+        {
+            "id": "19w04a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w04a/minecraft_server.19w04a.jar"
+        },
+        {
+            "id": "19w03c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w03c/minecraft_server.19w03c.jar"
+        },
+        {
+            "id": "19w03b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w03b/minecraft_server.19w03b.jar"
+        },
+        {
+            "id": "19w03a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w03a/minecraft_server.19w03a.jar"
+        },
+        {
+            "id": "19w02a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/19w02a/minecraft_server.19w02a.jar"
+        },
+        {
+            "id": "18w50a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w50a/minecraft_server.18w50a.jar"
+        },
+        {
+            "id": "18w49a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w49a/minecraft_server.18w49a.jar"
+        },
+        {
+            "id": "18w48b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w48b/minecraft_server.18w48b.jar"
+        },
+        {
+            "id": "18w48a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w48a/minecraft_server.18w48a.jar"
+        },
+        {
+            "id": "18w47b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w47b/minecraft_server.18w47b.jar"
+        },
+        {
+            "id": "18w47a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w47a/minecraft_server.18w47a.jar"
+        },
+        {
+            "id": "18w46a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w46a/minecraft_server.18w46a.jar"
+        },
+        {
+            "id": "18w45a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w45a/minecraft_server.18w45a.jar"
+        },
+        {
+            "id": "18w44a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w44a/minecraft_server.18w44a.jar"
+        },
+        {
+            "id": "18w43c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w43c/minecraft_server.18w43c.jar"
+        },
+        {
+            "id": "18w43b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w43b/minecraft_server.18w43b.jar"
+        },
+        {
+            "id": "18w43a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w43a/minecraft_server.18w43a.jar"
+        },
+        {
+            "id": "1.13.2-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13.2-pre2/minecraft_server.1.13.2-pre2.jar"
+        },
+        {
+            "id": "1.13.2-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13.2-pre1/minecraft_server.1.13.2-pre1.jar"
+        },
+        {
+            "id": "1.13.1-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13.1-pre2/minecraft_server.1.13.1-pre2.jar"
+        },
+        {
+            "id": "1.13.1-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13.1-pre1/minecraft_server.1.13.1-pre1.jar"
+        },
+        {
+            "id": "18w33a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w33a/minecraft_server.18w33a.jar"
+        },
+        {
+            "id": "18w32a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w32a/minecraft_server.18w32a.jar"
+        },
+        {
+            "id": "18w31a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w31a/minecraft_server.18w31a.jar"
+        },
+        {
+            "id": "18w30b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w30b/minecraft_server.18w30b.jar"
+        },
+        {
+            "id": "18w30a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w30a/minecraft_server.18w30a.jar"
+        },
+        {
+            "id": "1.13-pre10",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre10/minecraft_server.1.13-pre10.jar"
+        },
+        {
+            "id": "1.13-pre9",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre9/minecraft_server.1.13-pre9.jar"
+        },
+        {
+            "id": "1.13-pre8",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre8/minecraft_server.1.13-pre8.jar"
+        },
+        {
+            "id": "1.13-pre7",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre7/minecraft_server.1.13-pre7.jar"
+        },
+        {
+            "id": "1.13-pre6",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre6/minecraft_server.1.13-pre6.jar"
+        },
+        {
+            "id": "1.13-pre5",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre5/minecraft_server.1.13-pre5.jar"
+        },
+        {
+            "id": "1.13-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre4/minecraft_server.1.13-pre4.jar"
+        },
+        {
+            "id": "1.13-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre3/minecraft_server.1.13-pre3.jar"
+        },
+        {
+            "id": "1.13-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre2/minecraft_server.1.13-pre2.jar"
+        },
+        {
+            "id": "1.13-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.13-pre1/minecraft_server.1.13-pre1.jar"
+        },
+        {
+            "id": "18w22c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w22c/minecraft_server.18w22c.jar"
+        },
+        {
+            "id": "18w22b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w22b/minecraft_server.18w22b.jar"
+        },
+        {
+            "id": "18w22a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w22a/minecraft_server.18w22a.jar"
+        },
+        {
+            "id": "18w21b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w21b/minecraft_server.18w21b.jar"
+        },
+        {
+            "id": "18w21a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w21a/minecraft_server.18w21a.jar"
+        },
+        {
+            "id": "18w20c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w20c/minecraft_server.18w20c.jar"
+        },
+        {
+            "id": "18w20b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w20b/minecraft_server.18w20b.jar"
+        },
+        {
+            "id": "18w20a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w20a/minecraft_server.18w20a.jar"
+        },
+        {
+            "id": "18w19b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w19b/minecraft_server.18w19b.jar"
+        },
+        {
+            "id": "18w19a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w19a/minecraft_server.18w19a.jar"
+        },
+        {
+            "id": "18w16a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w16a/minecraft_server.18w16a.jar"
+        },
+        {
+            "id": "18w15a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w15a/minecraft_server.18w15a.jar"
+        },
+        {
+            "id": "18w14b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w14b/minecraft_server.18w14b.jar"
+        },
+        {
+            "id": "18w14a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w14a/minecraft_server.18w14a.jar"
+        },
+        {
+            "id": "18w11a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w11a/minecraft_server.18w11a.jar"
+        },
+        {
+            "id": "18w10d",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w10d/minecraft_server.18w10d.jar"
+        },
+        {
+            "id": "18w10c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w10c/minecraft_server.18w10c.jar"
+        },
+        {
+            "id": "18w10b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w10b/minecraft_server.18w10b.jar"
+        },
+        {
+            "id": "18w10a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w10a/minecraft_server.18w10a.jar"
+        },
+        {
+            "id": "18w09a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w09a/minecraft_server.18w09a.jar"
+        },
+        {
+            "id": "18w08b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w08b/minecraft_server.18w08b.jar"
+        },
+        {
+            "id": "18w08a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w08a/minecraft_server.18w08a.jar"
+        },
+        {
+            "id": "18w07c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w07c/minecraft_server.18w07c.jar"
+        },
+        {
+            "id": "18w07b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w07b/minecraft_server.18w07b.jar"
+        },
+        {
+            "id": "18w07a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w07a/minecraft_server.18w07a.jar"
+        },
+        {
+            "id": "18w06a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w06a/minecraft_server.18w06a.jar"
+        },
+        {
+            "id": "18w05a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w05a/minecraft_server.18w05a.jar"
+        },
+        {
+            "id": "18w03b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w03b/minecraft_server.18w03b.jar"
+        },
+        {
+            "id": "18w03a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w03a/minecraft_server.18w03a.jar"
+        },
+        {
+            "id": "18w02a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w02a/minecraft_server.18w02a.jar"
+        },
+        {
+            "id": "18w01a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/18w01a/minecraft_server.18w01a.jar"
+        },
+        {
+            "id": "17w50a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w50a/minecraft_server.17w50a.jar"
+        },
+        {
+            "id": "17w49b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w49b/minecraft_server.17w49b.jar"
+        },
+        {
+            "id": "17w49a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w49a/minecraft_server.17w49a.jar"
+        },
+        {
+            "id": "17w48a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w48a/minecraft_server.17w48a.jar"
+        },
+        {
+            "id": "17w47b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w47b/minecraft_server.17w47b.jar"
+        },
+        {
+            "id": "17w47a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w47a/minecraft_server.17w47a.jar"
+        },
+        {
+            "id": "17w46a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w46a/minecraft_server.17w46a.jar"
+        },
+        {
+            "id": "17w45b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w45b/minecraft_server.17w45b.jar"
+        },
+        {
+            "id": "17w45a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w45a/minecraft_server.17w45a.jar"
+        },
+        {
+            "id": "17w43b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w43b/minecraft_server.17w43b.jar"
+        },
+        {
+            "id": "17w43a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w43a/minecraft_server.17w43a.jar"
+        },
+        {
+            "id": "1.12.2-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12.2-pre2/minecraft_server.1.12.2-pre2.jar"
+        },
+        {
+            "id": "1.12.2-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12.2-pre1/minecraft_server.1.12.2-pre1.jar"
+        },
+        {
+            "id": "1.12.1-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12.1-pre1/minecraft_server.1.12.1-pre1.jar"
+        },
+        {
+            "id": "17w31a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w31a/minecraft_server.17w31a.jar"
+        },
+        {
+            "id": "1.12-pre7",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12-pre7/minecraft_server.1.12-pre7.jar"
+        },
+        {
+            "id": "1.12-pre6",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12-pre6/minecraft_server.1.12-pre6.jar"
+        },
+        {
+            "id": "1.12-pre5",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12-pre5/minecraft_server.1.12-pre5.jar"
+        },
+        {
+            "id": "1.12-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12-pre4/minecraft_server.1.12-pre4.jar"
+        },
+        {
+            "id": "1.12-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12-pre3/minecraft_server.1.12-pre3.jar"
+        },
+        {
+            "id": "1.12-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12-pre2/minecraft_server.1.12-pre2.jar"
+        },
+        {
+            "id": "1.12-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.12-pre1/minecraft_server.1.12-pre1.jar"
+        },
+        {
+            "id": "17w18b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w18b/minecraft_server.17w18b.jar"
+        },
+        {
+            "id": "17w18a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w18a/minecraft_server.17w18a.jar"
+        },
+        {
+            "id": "17w17b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w17b/minecraft_server.17w17b.jar"
+        },
+        {
+            "id": "17w17a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w17a/minecraft_server.17w17a.jar"
+        },
+        {
+            "id": "17w16b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w16b/minecraft_server.17w16b.jar"
+        },
+        {
+            "id": "17w16a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w16a/minecraft_server.17w16a.jar"
+        },
+        {
+            "id": "17w15a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w15a/minecraft_server.17w15a.jar"
+        },
+        {
+            "id": "17w14a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w14a/minecraft_server.17w14a.jar"
+        },
+        {
+            "id": "17w13b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w13b/minecraft_server.17w13b.jar"
+        },
+        {
+            "id": "17w13a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w13a/minecraft_server.17w13a.jar"
+        },
+        {
+            "id": "17w06a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w06a/minecraft_server.17w06a.jar"
+        },
+        {
+            "id": "16w50a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w50a/minecraft_server.16w50a.jar"
+        },
+        {
+            "id": "1.11-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.11-pre1/minecraft_server.1.11-pre1.jar"
+        },
+        {
+            "id": "16w44a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w44a/minecraft_server.16w44a.jar"
+        },
+        {
+            "id": "16w43a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w43a/minecraft_server.16w43a.jar"
+        },
+        {
+            "id": "16w42a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w42a/minecraft_server.16w42a.jar"
+        },
+        {
+            "id": "16w41a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w41a/minecraft_server.16w41a.jar"
+        },
+        {
+            "id": "16w40a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w40a/minecraft_server.16w40a.jar"
+        },
+        {
+            "id": "16w39c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w39c/minecraft_server.16w39c.jar"
+        },
+        {
+            "id": "16w39b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w39b/minecraft_server.16w39b.jar"
+        },
+        {
+            "id": "16w39a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w39a/minecraft_server.16w39a.jar"
+        },
+        {
+            "id": "16w38a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w38a/minecraft_server.16w38a.jar"
+        },
+        {
+            "id": "16w36a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w36a/minecraft_server.16w36a.jar"
+        },
+        {
+            "id": "16w35a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w35a/minecraft_server.16w35a.jar"
+        },
+        {
+            "id": "16w33a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w33a/minecraft_server.16w33a.jar"
+        },
+        {
+            "id": "16w32b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w32b/minecraft_server.16w32b.jar"
+        },
+        {
+            "id": "16w32a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w32a/minecraft_server.16w32a.jar"
+        },
+        {
+            "id": "1.10-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.10-pre2/minecraft_server.1.10-pre2.jar"
+        },
+        {
+            "id": "1.10-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.10-pre1/minecraft_server.1.10-pre1.jar"
+        },
+        {
+            "id": "16w21b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w21b/minecraft_server.16w21b.jar"
+        },
+        {
+            "id": "16w21a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w21a/minecraft_server.16w21a.jar"
+        },
+        {
+            "id": "16w20a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w20a/minecraft_server.16w20a.jar"
+        },
+        {
+            "id": "1.9.3-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.3-pre3/minecraft_server.1.9.3-pre3.jar"
+        },
+        {
+            "id": "1.9.3-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.3-pre2/minecraft_server.1.9.3-pre2.jar"
+        },
+        {
+            "id": "1.9.3-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.3-pre1/minecraft_server.1.9.3-pre1.jar"
+        },
+        {
+            "id": "16w15b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w15b/minecraft_server.16w15b.jar"
+        },
+        {
+            "id": "16w15a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w15a/minecraft_server.16w15a.jar"
+        },
+        {
+            "id": "16w14a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w14a/minecraft_server.16w14a.jar"
+        },
+        {
+            "id": "1.RV-Pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.RV-Pre1/minecraft_server.1.RV-Pre1.jar"
+        },
+        {
+            "id": "1.9.1-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.1-pre3/minecraft_server.1.9.1-pre3.jar"
+        },
+        {
+            "id": "1.9.1-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.1-pre2/minecraft_server.1.9.1-pre2.jar"
+        },
+        {
+            "id": "1.9.1-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.1-pre1/minecraft_server.1.9.1-pre1.jar"
+        },
+        {
+            "id": "1.9-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9-pre4/minecraft_server.1.9-pre4.jar"
+        },
+        {
+            "id": "1.9-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9-pre3/minecraft_server.1.9-pre3.jar"
+        },
+        {
+            "id": "1.9-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9-pre2/minecraft_server.1.9-pre2.jar"
+        },
+        {
+            "id": "1.9-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9-pre1/minecraft_server.1.9-pre1.jar"
+        },
+        {
+            "id": "16w07b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w07b/minecraft_server.16w07b.jar"
+        },
+        {
+            "id": "16w07a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w07a/minecraft_server.16w07a.jar"
+        },
+        {
+            "id": "16w06a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w06a/minecraft_server.16w06a.jar"
+        },
+        {
+            "id": "16w05b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w05b/minecraft_server.16w05b.jar"
+        },
+        {
+            "id": "16w05a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w05a/minecraft_server.16w05a.jar"
+        },
+        {
+            "id": "16w04a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w04a/minecraft_server.16w04a.jar"
+        },
+        {
+            "id": "16w03a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w03a/minecraft_server.16w03a.jar"
+        },
+        {
+            "id": "16w02a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/16w02a/minecraft_server.16w02a.jar"
+        },
+        {
+            "id": "15w51b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w51b/minecraft_server.15w51b.jar"
+        },
+        {
+            "id": "15w51a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w51a/minecraft_server.15w51a.jar"
+        },
+        {
+            "id": "15w50a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w50a/minecraft_server.15w50a.jar"
+        },
+        {
+            "id": "15w49b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w49b/minecraft_server.15w49b.jar"
+        },
+        {
+            "id": "15w49a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w49a/minecraft_server.15w49a.jar"
+        },
+        {
+            "id": "15w47c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w47c/minecraft_server.15w47c.jar"
+        },
+        {
+            "id": "15w47b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w47b/minecraft_server.15w47b.jar"
+        },
+        {
+            "id": "15w47a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w47a/minecraft_server.15w47a.jar"
+        },
+        {
+            "id": "15w46a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w46a/minecraft_server.15w46a.jar"
+        },
+        {
+            "id": "15w45a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w45a/minecraft_server.15w45a.jar"
+        },
+        {
+            "id": "15w44b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w44b/minecraft_server.15w44b.jar"
+        },
+        {
+            "id": "15w44a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w44a/minecraft_server.15w44a.jar"
+        },
+        {
+            "id": "15w43c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w43c/minecraft_server.15w43c.jar"
+        },
+        {
+            "id": "15w43b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w43b/minecraft_server.15w43b.jar"
+        },
+        {
+            "id": "15w43a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w43a/minecraft_server.15w43a.jar"
+        },
+        {
+            "id": "15w42a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w42a/minecraft_server.15w42a.jar"
+        },
+        {
+            "id": "15w41b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w41b/minecraft_server.15w41b.jar"
+        },
+        {
+            "id": "15w41a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w41a/minecraft_server.15w41a.jar"
+        },
+        {
+            "id": "15w40b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w40b/minecraft_server.15w40b.jar"
+        },
+        {
+            "id": "15w40a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w40a/minecraft_server.15w40a.jar"
+        },
+        {
+            "id": "15w39c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w39c/minecraft_server.15w39c.jar"
+        },
+        {
+            "id": "15w39b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w39b/minecraft_server.15w39b.jar"
+        },
+        {
+            "id": "15w39a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w39a/minecraft_server.15w39a.jar"
+        },
+        {
+            "id": "15w38b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w38b/minecraft_server.15w38b.jar"
+        },
+        {
+            "id": "15w38a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w38a/minecraft_server.15w38a.jar"
+        },
+        {
+            "id": "15w37a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w37a/minecraft_server.15w37a.jar"
+        },
+        {
+            "id": "15w36d",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w36d/minecraft_server.15w36d.jar"
+        },
+        {
+            "id": "15w36c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w36c/minecraft_server.15w36c.jar"
+        },
+        {
+            "id": "15w36b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w36b/minecraft_server.15w36b.jar"
+        },
+        {
+            "id": "15w36a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w36a/minecraft_server.15w36a.jar"
+        },
+        {
+            "id": "15w35e",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w35e/minecraft_server.15w35e.jar"
+        },
+        {
+            "id": "15w35d",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w35d/minecraft_server.15w35d.jar"
+        },
+        {
+            "id": "15w35c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w35c/minecraft_server.15w35c.jar"
+        },
+        {
+            "id": "15w35b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w35b/minecraft_server.15w35b.jar"
+        },
+        {
+            "id": "15w35a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w35a/minecraft_server.15w35a.jar"
+        },
+        {
+            "id": "15w34d",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w34d/minecraft_server.15w34d.jar"
+        },
+        {
+            "id": "15w34c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w34c/minecraft_server.15w34c.jar"
+        },
+        {
+            "id": "15w34b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w34b/minecraft_server.15w34b.jar"
+        },
+        {
+            "id": "15w34a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w34a/minecraft_server.15w34a.jar"
+        },
+        {
+            "id": "15w33c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w33c/minecraft_server.15w33c.jar"
+        },
+        {
+            "id": "15w33b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w33b/minecraft_server.15w33b.jar"
+        },
+        {
+            "id": "15w33a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w33a/minecraft_server.15w33a.jar"
+        },
+        {
+            "id": "15w32c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w32c/minecraft_server.15w32c.jar"
+        },
+        {
+            "id": "15w32b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w32b/minecraft_server.15w32b.jar"
+        },
+        {
+            "id": "15w32a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w32a/minecraft_server.15w32a.jar"
+        },
+        {
+            "id": "15w31c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w31c/minecraft_server.15w31c.jar"
+        },
+        {
+            "id": "15w31b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w31b/minecraft_server.15w31b.jar"
+        },
+        {
+            "id": "15w31a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w31a/minecraft_server.15w31a.jar"
+        },
+        {
+            "id": "15w14a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/15w14a/minecraft_server.15w14a.jar"
+        },
+        {
+            "id": "1.8.2-pre7",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.2-pre7/minecraft_server.1.8.2-pre7.jar"
+        },
+        {
+            "id": "1.8.2-pre6",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.2-pre6/minecraft_server.1.8.2-pre6.jar"
+        },
+        {
+            "id": "1.8.2-pre5",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.2-pre5/minecraft_server.1.8.2-pre5.jar"
+        },
+        {
+            "id": "1.8.2-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.2-pre4/minecraft_server.1.8.2-pre4.jar"
+        },
+        {
+            "id": "1.8.2-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.2-pre3/minecraft_server.1.8.2-pre3.jar"
+        },
+        {
+            "id": "1.8.2-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.2-pre2/minecraft_server.1.8.2-pre2.jar"
+        },
+        {
+            "id": "1.8.2-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.2-pre1/minecraft_server.1.8.2-pre1.jar"
+        },
+        {
+            "id": "1.8.1-pre5",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.1-pre5/minecraft_server.1.8.1-pre5.jar"
+        },
+        {
+            "id": "1.8.1-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.1-pre4/minecraft_server.1.8.1-pre4.jar"
+        },
+        {
+            "id": "1.8.1-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.1-pre3/minecraft_server.1.8.1-pre3.jar"
+        },
+        {
+            "id": "1.8.1-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.1-pre2/minecraft_server.1.8.1-pre2.jar"
+        },
+        {
+            "id": "1.8.1-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.1-pre1/minecraft_server.1.8.1-pre1.jar"
+        },
+        {
+            "id": "1.8-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8-pre3/minecraft_server.1.8-pre3.jar"
+        },
+        {
+            "id": "1.8-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8-pre2/minecraft_server.1.8-pre2.jar"
+        },
+        {
+            "id": "1.8-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8-pre1/minecraft_server.1.8-pre1.jar"
+        },
+        {
+            "id": "14w34d",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w34d/minecraft_server.14w34d.jar"
+        },
+        {
+            "id": "14w34c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w34c/minecraft_server.14w34c.jar"
+        },
+        {
+            "id": "14w34b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w34b/minecraft_server.14w34b.jar"
+        },
+        {
+            "id": "14w34a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w34a/minecraft_server.14w34a.jar"
+        },
+        {
+            "id": "14w33c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w33c/minecraft_server.14w33c.jar"
+        },
+        {
+            "id": "14w33b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w33b/minecraft_server.14w33b.jar"
+        },
+        {
+            "id": "14w33a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w33a/minecraft_server.14w33a.jar"
+        },
+        {
+            "id": "14w32d",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w32d/minecraft_server.14w32d.jar"
+        },
+        {
+            "id": "14w32c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w32c/minecraft_server.14w32c.jar"
+        },
+        {
+            "id": "14w32b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w32b/minecraft_server.14w32b.jar"
+        },
+        {
+            "id": "14w32a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w32a/minecraft_server.14w32a.jar"
+        },
+        {
+            "id": "14w31a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w31a/minecraft_server.14w31a.jar"
+        },
+        {
+            "id": "14w30c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w30c/minecraft_server.14w30c.jar"
+        },
+        {
+            "id": "14w30b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w30b/minecraft_server.14w30b.jar"
+        },
+        {
+            "id": "14w30a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w30a/minecraft_server.14w30a.jar"
+        },
+        {
+            "id": "14w29b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w29b/minecraft_server.14w29b.jar"
+        },
+        {
+            "id": "14w29a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w29a/minecraft_server.14w29a.jar"
+        },
+        {
+            "id": "14w28b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w28b/minecraft_server.14w28b.jar"
+        },
+        {
+            "id": "14w28a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w28a/minecraft_server.14w28a.jar"
+        },
+        {
+            "id": "14w27b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w27b/minecraft_server.14w27b.jar"
+        },
+        {
+            "id": "14w27a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w27a/minecraft_server.14w27a.jar"
+        },
+        {
+            "id": "14w26c",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w26c/minecraft_server.14w26c.jar"
+        },
+        {
+            "id": "14w26b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w26b/minecraft_server.14w26b.jar"
+        },
+        {
+            "id": "14w26a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w26a/minecraft_server.14w26a.jar"
+        },
+        {
+            "id": "14w25b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w25b/minecraft_server.14w25b.jar"
+        },
+        {
+            "id": "14w25a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w25a/minecraft_server.14w25a.jar"
+        },
+        {
+            "id": "14w21b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w21b/minecraft_server.14w21b.jar"
+        },
+        {
+            "id": "14w21a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w21a/minecraft_server.14w21a.jar"
+        },
+        {
+            "id": "14w20b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w20b/minecraft_server.14w20b.jar"
+        },
+        {
+            "id": "14w20a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w20a/minecraft_server.14w20a.jar"
+        },
+        {
+            "id": "1.7.10-pre4",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.10-pre4/minecraft_server.1.7.10-pre4.jar"
+        },
+        {
+            "id": "1.7.10-pre3",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.10-pre3/minecraft_server.1.7.10-pre3.jar"
+        },
+        {
+            "id": "1.7.10-pre2",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.10-pre2/minecraft_server.1.7.10-pre2.jar"
+        },
+        {
+            "id": "1.7.10-pre1",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.7.10-pre1/minecraft_server.1.7.10-pre1.jar"
+        },
+        {
+            "id": "14w19a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w19a/minecraft_server.14w19a.jar"
+        },
+        {
+            "id": "14w18b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w18b/minecraft_server.14w18b.jar"
+        },
+        {
+            "id": "14w18a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w18a/minecraft_server.14w18a.jar"
+        },
+        {
+            "id": "14w17a",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w17a/minecraft_server.14w17a.jar"
+        },
+        {
+            "id": "14w11b",
+            "url": "https://s3.amazonaws.com/Minecraft.Download/versions/14w11b/minecraft_server.14w11b.jar"
+        }
+    ],
+    "CraftBukkit": null,
+    "Spigot": "",
+    "PaperMC": ""
+}
